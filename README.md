@@ -18,3 +18,4 @@ To run the program you need to pass 4 arguments:
 For example you would compile the code as follows: gcc GameOfLife.c -o life
 For example you would run the code as follows: ./ life traffic 5 5 3
 
+
