@@ -1,5 +1,5 @@
 # Game-of-Life
-An example of Conways game of life programmed on C.
+An example of Conways game of life programmed using C.
 
 The game of life is an example of cellular automation and is played on an infinte 2D rectangular grid. The rules are as follows:
 
