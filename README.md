@@ -13,7 +13,7 @@ To run the program you need to pass 4 arguments:
   -> A file with all the coordinates of live cells for the first generation.
   -> An integer for the width
   -> An integer for the height
-  -> An intefer for the number of generations you want.
+  -> An integer for the number of generations you want.
   
 For example you would compile the code as follows: gcc GameOfLife.c -o life
 For example you would run the code as follows: ./ life traffic 5 5 3
